@@ -2,7 +2,7 @@
 
 Implementing a RESTful Webservice using MongoDB, Node.js and Express.js stack.
 
-##Dependencies: 
+## Dependencies: 
 1) You will need `POSTMAN` and `mongoDB` installed for the project to work.
 2) Install both and run mongodb service in background using `mongod`
 2) Run `npm install` in a shell in the directory to download the node dependencies.
@@ -27,7 +27,9 @@ The following routes have been implemented in the project
 
 /cars/
 
-### Note:  PATCH/PUT have also been implemented, and a complete list of routes can be found in `/routes/users.js` and `/routes/cars.js`
+### Note:  
+
+PATCH/PUT have also been implemented, and a complete list of routes can be found in `/routes/users.js` and `/routes/cars.js`
 
 ## Code Structure Explanation : 
 
