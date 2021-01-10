@@ -14,20 +14,20 @@ Implementing a RESTful Webservice using MongoDB, Node.js and Express.js stack.
 ## Routes : 
 The following routes have been implemented in the project
 
-# GET
+### GET
 /users/
 /users/:userId
 /users/:userId:/cars
 
 /cars/
 
-# POST
+### POST
 /users/
 /users/:userId/cars
 
 /cars/
 
-## Note:  PATCH/PUT have also been implemented, and a complete list of routes can be found in `/routes/users.js` and `/routes/cars.js`
+### Note:  PATCH/PUT have also been implemented, and a complete list of routes can be found in `/routes/users.js` and `/routes/cars.js`
 
 ## Code Structure Explanation : 
 
